@@ -1,5 +1,4 @@
 Title: Photo Jump - A Personalized Endless Runner Game
-Play: Open the Index file on your browser. 
 Description:
 
 Photo Jump is a fun and personalized endless runner game where you play as yourself or your friends, jumping over obstacles to get as far as possible. 
@@ -13,6 +12,9 @@ Instructions:
 To play the game, simply use the space bar or tap the screen to make your character jump over obstacles. The game will get progressively harder as you go, so be prepared to react quickly to stay alive!
 
 To customize your character with your own photos, follow these steps:
+For cahracter image customization, it's better to remove the background of your image and take a png file with transparent background. 
+If you don't have the tools you can use for free: https://www.erase.bg/
+The cover image has to be jpg
 
 Replace the "character.png" file in the "img" folder with a photo of your choice. The image should be square and saved as a PNG file.
 
