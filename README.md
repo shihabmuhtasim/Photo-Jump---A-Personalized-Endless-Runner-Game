@@ -1,7 +1,7 @@
 # Photo-Jump---A-Personalized-Endless-Runner-Game
 ![GitHub top language](https://img.shields.io/github/languages/top/shihabmuhtasim/Photo-Jump---A-Personalized-Endless-Runner-Game?color=Blue) 
 
-![GitHub language count](https://img.shields.io/github/languages/count/shihabmuhtasim/Photo-Jump---A-Personalized-Endless-Runner-Game?color=red&labelColor=FFC0CB
+![GitHub language count](https://img.shields.io/github/languages/count/shihabmuhtasim/Photo-Jump---A-Personalized-Endless-Runner-Game?labelColor=FFC0CB
 )
 
 Photo Jump is an endless runner game that lets you play as yourself or your friends, jumping over obstacles to get as far as possible. With customizable characters using your own photos, it's a unique and entertaining way to enjoy your own or your friends' faces while testing your reaction speed and agility.
